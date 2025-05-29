@@ -1,1 +1,1 @@
-stopwatch project done using HTML , CSS And JavaScript .
+StopWatch project done using HTML , CSS And JavaScript .
